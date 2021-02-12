@@ -1,0 +1,8 @@
+prefix=/home/ruben/catkin_ws/install
+
+Name: cameras_cpp
+Description: Description of cameras_cpp
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs std_msgs tf cv_bridge image_transport pcl_conversions pcl_ros

@@ -1,0 +1,8 @@
+prefix=/home/ruben/catkin_ws/devel
+
+Name: softarq_msgs
+Description: Description of softarq_msgs
+Version: 0.0.1
+Cflags: -I/home/ruben/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime actionlib_msgs
