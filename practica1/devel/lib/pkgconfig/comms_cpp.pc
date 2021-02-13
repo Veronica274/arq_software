@@ -1,0 +1,8 @@
+prefix=/home/ruben/arq_software/practica1/devel
+
+Name: comms_cpp
+Description: Description of comms_cpp
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs actionlib_msgs softarq_msgs

@@ -1,0 +1,8 @@
+prefix=/home/ruben/arq_software/practica1/devel
+
+Name: bumpgo
+Description: Description of bumpgo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs kobuki_msgs sensor_msgs

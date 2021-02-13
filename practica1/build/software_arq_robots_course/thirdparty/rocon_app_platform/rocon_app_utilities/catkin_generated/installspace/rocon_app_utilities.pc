@@ -1,0 +1,8 @@
+prefix=/home/ruben/arq_software/practica1/install
+
+Name: rocon_app_utilities
+Description: Description of rocon_app_utilities
+Version: 0.10.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

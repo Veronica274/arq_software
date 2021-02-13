@@ -1,0 +1,8 @@
+prefix=/home/ruben/arq_software/practica1/install
+
+Name: kobuki_qtestsuite
+Description: Description of kobuki_qtestsuite
+Version: 0.5.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

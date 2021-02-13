@@ -1,0 +1,8 @@
+prefix=/home/ruben/arq_software/practica1/devel
+
+Name: softarq_msgs
+Description: Description of softarq_msgs
+Version: 0.0.1
+Cflags: -I/home/ruben/arq_software/practica1/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime actionlib_msgs
