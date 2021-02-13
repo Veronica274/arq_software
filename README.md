@@ -10,4 +10,3 @@ Distintos proyectos que iremos haciendo en la asignatura de arquitectura softwar
 
   rclcpp::shutdown();
 
-  return 0;
