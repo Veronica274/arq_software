@@ -1,8 +1,0 @@
-prefix=/home/ruben/catkin_ws/devel
-
-Name: geometry_tf
-Description: Description of geometry_tf
-Version: 0.0.1
-Cflags: -I/home/ruben/catkin_ws/src/software_arq_robots_course/geometry_tf/include
-Libs: -L${prefix}/lib -lgeometry_tf
-Requires: geometry_msgs tf2_geometry_msgs roscpp tf2 tf2_ros

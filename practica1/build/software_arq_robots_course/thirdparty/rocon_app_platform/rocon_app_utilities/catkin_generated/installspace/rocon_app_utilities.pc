@@ -1,8 +1,0 @@
-prefix=/home/ruben/catkin_ws/install
-
-Name: rocon_app_utilities
-Description: Description of rocon_app_utilities
-Version: 0.10.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/ruben/catkin_ws/devel
-
-Name: rocon_apps
-Description: Description of rocon_apps
-Version: 0.10.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

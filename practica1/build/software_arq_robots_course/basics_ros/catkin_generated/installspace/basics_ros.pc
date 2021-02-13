@@ -1,8 +1,0 @@
-prefix=/home/ruben/catkin_ws/install
-
-Name: basics_ros
-Description: Description of basics_ros
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs
